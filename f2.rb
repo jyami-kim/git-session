@@ -1,1 +1,6 @@
-2  hehe
+2
+
+funcion a(exp){
+}
+funcion b(){
+}
