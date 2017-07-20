@@ -5,4 +5,3 @@ function b(){
 }
 function c(){
 }
-
